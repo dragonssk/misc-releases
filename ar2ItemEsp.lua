@@ -42,6 +42,7 @@ newThread(function()
                     lot.txt.Transparency = 1;
                     lot.txt.Color = Color3.new(1, 0.5, 0.5);
                     lot.txt.Font = Drawing.Fonts.Plex;
+                    lot.txt.Center = true;
                     lot.txt.Size = 13;
                     lot.txt.Outline = true;
                     
