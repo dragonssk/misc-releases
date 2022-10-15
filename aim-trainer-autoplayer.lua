@@ -1,4 +1,5 @@
 -- https://www.roblox.com/games/6159892946/Aim-Trainer
+-- https://github.com/dragonssk/misc-releases/blob/main/aim-trainer-autoplayer.lua
 
 local toggle = false
 local userInputService = game:GetService('UserInputService')
