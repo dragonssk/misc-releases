@@ -14,7 +14,7 @@ o_request = hookfunction(syn.request, function(args)
             args.URL = 'https://raw.githubusercontent.com/dragonssk/misc-releases/main/sirius-phantomforces/esp.lua'
         elseif args.URL == 'https://raw.githubusercontent.com/shlexware/Sirius/request/library/Pathfinding' then
             args.URL = 'https://raw.githubusercontent.com/dragonssk/misc-releases/main/sirius-phantomforces/pathfinding.lua'
-        elseif args.URL == 'https://raw.githubusercontent.com/shlexware/Sirius/request/library/Pathfinding' then
+        elseif args.URL == 'https://raw.githubusercontent.com/shlexware/Rayfield/main/source' then
             args.URL = 'https://raw.githubusercontent.com/dragonssk/misc-releases/main/sirius-phantomforces/rayfield.lua'
         end
     end
